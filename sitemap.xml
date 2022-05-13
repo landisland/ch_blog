@@ -8,14 +8,17 @@
     <loc>http://example.org/</loc>
     <lastmod>2022-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/contact/</loc>
-    <lastmod>2022-05-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://example.org/post/my_output/</loc>
     <lastmod>2022-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/post/grandpa/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/gaokao/</loc>
+    <lastmod>2021-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/contact/</loc>
+    <lastmod>1999-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>
