@@ -8,6 +8,16 @@
     <language>zh-cn</language>
     <lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>联系方式</title>
+      <link>http://example.org/post/contact/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/contact/</guid>
+      <description>Reach out and say hi, I’m always curious to hear from readers:
+ Email：landisland[dot]newsletter[at]gmail[dot]com  </description>
+    </item>
+    
+    <item>
       <title>自说自话 Weekly Review｜自说自话档案馆｜云中集</title>
       <link>http://example.org/post/my_output/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>

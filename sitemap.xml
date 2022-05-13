@@ -8,6 +8,9 @@
     <loc>http://example.org/</loc>
     <lastmod>2022-05-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://example.org/post/contact/</loc>
+    <lastmod>2022-05-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://example.org/post/my_output/</loc>
     <lastmod>2022-05-13T00:00:00+00:00</lastmod>
   </url><url>
