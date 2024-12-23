@@ -6,8 +6,15 @@
     <description>Recent content in Posts on 云中集</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“周日&#34;</title>
+      <link>http://example.org/post/20241222%E5%91%A8%E6%97%A5/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/20241222%E5%91%A8%E6%97%A5/</guid>
+      <description>&lt;p&gt;折腾了半小时，把台式机上的环境搭好，应该可以在网站继续跑起来了。每年十二月 GoDaddy 都会发来扣费通知，提醒我又是一年网站啥也没发布但还是继续支付费用的一年。想着还是要多写多输出，不然不是亏死了。&lt;/p&gt;&#xA;&lt;p&gt;简单的一个周日，上午看剧下午健身狗公园。明天上一天班然后迎接圣诞。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>“海&#34;</title>
       <link>http://example.org/post/20241021-%E6%B5%B7/</link>
